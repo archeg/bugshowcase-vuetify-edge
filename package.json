@@ -18,7 +18,7 @@
     "date-fns": "^2.8.1",
     "file-saver": "^2.0.2",
     "inputmask": "^4.0.9",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "lorem-ipsum": "^2.0.3",
     "vue": "^2.6.6",
     "vue-class-component": "^6.3.2",
