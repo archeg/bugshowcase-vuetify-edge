@@ -11,7 +11,7 @@
     "@types/file-saver": "^2.0.1",
     "@types/inputmask": "^4.0.1",
     "@types/lodash": "^4.14.149",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "chroma-js": "^2.1.0",
     "compact-timezone-list": "^1.0.6",
